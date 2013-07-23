@@ -1,0 +1,19 @@
+
+ ====================
+  What does this do?
+ ====================
+ 
+  This is Madlax's DRI infrastructure.  It supports hardware accelerated
+  GL, and loading/unloading of device drivers (VDI).
+    
+ ==================
+  How do I use it?
+ ==================
+ 
+  TODO
+  
+ ========================
+ Where do I go from here?
+ ========================
+ 
+  TODO
